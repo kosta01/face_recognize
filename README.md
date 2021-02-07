@@ -1,1 +1,1 @@
-# face_recognize
+# face_recognizer
